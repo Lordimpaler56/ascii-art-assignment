@@ -12,14 +12,16 @@ void setup() {
   println("L          O      O     G   GGG      A   A      N  N   N");
   println("L          O      O     G     G     AAAAAAA     N   N  N");
   println("L           O    O      G     G     A     A     N     NN");
-  println("LLLLLLLL     OOOO       GGGGGGG     A     A     N      N");
+  println("LLLLLLLL     OOOO       GGGGGGG     A     A     N      N");// code for displaying my name in ascii-art
+  
+  
  println(" ");
  println(" ");
  println(" ");
  println(" ");
  println(" ");
  println(" ");
- println(" ");
+ println(" ");// code used to space out the first ascii- art image and the following one
 
 
  
@@ -44,7 +46,7 @@ println("           ;Xti;=;+i;+ti++=+tRBBBYBVRYXIVtYY++=..:........:.;;::==;::;.
 println("             YVi==;++:I;;ii+IRXIYIY=:;i;i;=;;;;;.........;:::;:;=;..:;::");
 println("             :=XI=+iItIiit=:IXRRIItiXiIYiIt;I==:.......:..:....;:........");
 println("             :BWRRV;YRIXY...+YRRVYVR+XIRItitI++=:.....;:.........:....:.::..");
-println("            ==+RWBXtIRRV+.+IiYRBYBRRYYIRI;VitI;=;..........:::.::;::::...;;;:.");
+println("            ==+RWBXtIRRV+.+IiYRBYBRRYYIRI;VitI;=;..........:::.::;::::...;;;:.");//code used to display second ascii-art image
 }
 
 void draw() {
